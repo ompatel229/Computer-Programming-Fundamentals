@@ -188,7 +188,15 @@ do{
         {
             exit(0);
         }
+    default:
+        {
+            cout<<"Invalid Choice. Please Enter A Valid Choice."<<endl;
+            cout<<""<<endl;
+            cout<<""<<endl;
+        }
     }
 }while(choice!=5);
+    cout<<endl;
+    cout<<"                                          ~developed by Om Patel"<<endl;
     return 0;
 }
