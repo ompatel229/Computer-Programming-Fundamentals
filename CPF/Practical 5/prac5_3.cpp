@@ -135,4 +135,6 @@ cout<<endl;
         }
         cout<<endl;
     }
+    cout<<endl;
+    cout<<"                                          ~developed by Om Patel"<<endl;
 }
